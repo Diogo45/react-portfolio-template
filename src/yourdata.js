@@ -17,7 +17,7 @@ export default {
   //Change The Website Template
 
   //   Header Details ---------------------
-  name: "chetan",
+  name: "Diogo",
   headerTagline: [
     //Line 1 For Header
     "Building digital",
@@ -31,49 +31,50 @@ export default {
     "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.",
 
   //Contact Email
-  contactEmail: "hello@chetanverma.com",
+  contactEmail: "diogohartmann45@gmail.com",
 
   // End Header Details -----------------------
 
   // Work Section ------------------------
   projects: [
     {
-      title: "Project One", //Project Title - Add Your Project Title Here
+      title: "Revira-e-Volta", //Project Title - Add Your Project Title Here
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", // Add Your Service Type Here
+        "In Revira e Volta, you are a thief breaking into people's houses in Porto Alegre, a city in the southern region of Brazil. Your boss has given you an order to rob a specific item in each home, and you must do so without leaving any trace of your presence!", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
-        "https://images.unsplash.com/photo-1487837647815-bbc1f30cd0d2?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8Njl8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
+        "static/logo_render_title.png",
+      //Project URL - Add Your Project Url Here
+      url: "https://clever-toast-games.itch.io/revira-e-volta",
+    },
+    {
+      title: "Pirate Jam", //Project Title - Add Your Project Title Here
+      para:
+        "In this game, you are stuck in a real jam - a pirate jam\!\nYou are a pirate in search for treasure spots among the seven seas, which are, of course, marked by the 'X'! The wind is always blowing,  so you must rotate your ship's sails to change the direction to which you are heading.",
+         // Add Your Service Type Here
+      //Project Image - Add Your Project Image Here
+      imageSrc:
+        "https://img.itch.zone/aW1hZ2UvMTE2NzA5Mi82Nzk2ODkzLmdpZg==/original/72KCpx.gif",
       //Project URL - Add Your Project Url Here
       url: "http://chetanverma.com/",
     },
     {
-      title: "Project Two", //Project Title - Add Your Project Title Here
+      title: "Manifesto", //Project Title - Add Your Project Title Here
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", // Add Your Service Type Here
+        "Manifesto is a game about joining together with your peers to retake public spaces. Gather a protest and manifest on landmarks to retake them to the people.", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
-        "https://images.unsplash.com/photo-1605153864431-a2795a1b2f95?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwyNTY3ODl8fGVufDB8fHw%3D&auto=format&fit=crop&w=400&q=60",
+        "https://img.itch.zone/aW1nLzYyMTcwNjkucG5n/original/37P6zZ.png",
       //Project URL - Add Your Project Url Here
       url: "http://chetanverma.com/",
     },
     {
-      title: "Project Three", //Project Title - Add Your Project Title Here
+      title: "CARGO HELL", //Project Title - Add Your Project Title Here
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", // Add Your Service Type Here
+        "You are a new-hire space courier and need to get to your destinations safely, but intergalactic space pirates are on your tail. On top of that, the space mail company that hired you is on a tight budget, so your ship has no weapons! Your only option available is a reflector shield which activates only while your ship is moving...", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
-        "https://images.unsplash.com/photo-1504083898675-c896ecdae86e?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MjJ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
-      //Project URL - Add Your Project Url Here
-      url: "http://chetanverma.com/",
-    },
-    {
-      title: "Project Four", //Project Title - Add Your Project Title Here
-      para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", // Add Your Service Type Here
-      //Project Image - Add Your Project Image Here
-      imageSrc:
-        "https://images.unsplash.com/photo-1492171983775-a51717616c0d?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NjB8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
+        "https://img.itch.zone/aW1hZ2UvMTIxNzYzMy83MTA2MjIyLmdpZg==/original/dFEfDe.gif",
       //Project URL - Add Your Project Url Here
       url: "http://chetanverma.com/",
     },

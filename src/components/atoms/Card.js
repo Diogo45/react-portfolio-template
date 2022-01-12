@@ -2,6 +2,7 @@ import React from "react"
 
 const Card = ({ heading, paragraph, imgUrl, projectLink }) => {
   return (
+    
     <div
       className="card"
       style={{
@@ -11,6 +12,7 @@ const Card = ({ heading, paragraph, imgUrl, projectLink }) => {
           ")",
       }}
     >
+      <div className="contentBackground">
       <div className="content">
         <h1 className="header">{heading}</h1>
         <p className="text">{paragraph}</p>
@@ -23,6 +25,10 @@ const Card = ({ heading, paragraph, imgUrl, projectLink }) => {
           Explore
         </a>
       </div>
+      </div>
+     
+      
+      
     </div>
   )
 }
